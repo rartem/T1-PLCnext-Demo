@@ -1,6 +1,6 @@
 [submodule "sys"]
 	path = sys
-	url = https://github.com/savushkin-r-d/ptusa-Lua-system.git
+	url = https://github.com/rartem/ptusa-Lua-system.git
 [submodule "bin"]
 	path = bin
 	url = https://github.com/savushkin-r-d/ptusa-main-bin.git
